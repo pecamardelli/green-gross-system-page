@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/green-gross-system-page/static/css/main.4101de22.chunk.css",
-    "main.js": "/green-gross-system-page/static/js/main.9de9561e.chunk.js",
-    "main.js.map": "/green-gross-system-page/static/js/main.9de9561e.chunk.js.map",
+    "main.js": "/green-gross-system-page/static/js/main.724f92a9.chunk.js",
+    "main.js.map": "/green-gross-system-page/static/js/main.724f92a9.chunk.js.map",
     "runtime-main.js": "/green-gross-system-page/static/js/runtime-main.37bb8e40.js",
     "runtime-main.js.map": "/green-gross-system-page/static/js/runtime-main.37bb8e40.js.map",
     "static/css/2.407679b4.chunk.css": "/green-gross-system-page/static/css/2.407679b4.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.407679b4.chunk.css",
     "static/js/2.25153ad1.chunk.js",
     "static/css/main.4101de22.chunk.css",
-    "static/js/main.9de9561e.chunk.js"
+    "static/js/main.724f92a9.chunk.js"
   ]
 }
